@@ -1,0 +1,2 @@
+# Hermes
+Messaging applications are the most used softwares among all others. It is in this context that lies our graduation project. We developed an Android application to make voice calls and manage messaging, based on the most requested market technologies such as VoIP and more specifically SIP for calls and the exchange messages protocol XMPP. This application will be integrated as part of a larger project of a telephone operator who wants to benefit his users from easy access to a messaging service.
